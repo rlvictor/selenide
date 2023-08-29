@@ -1,4 +1,4 @@
-package ru.netology.web;
+package ru.netology.selenide;
 
 import com.codeborne.selenide.Condition;
 import org.junit.jupiter.api.Test;
